@@ -1,0 +1,16 @@
+{
+  "name": "simple-node-cicd",
+  "version": "1.0.0",
+  "description": "A simple Node.js app for CI/CD demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
+
